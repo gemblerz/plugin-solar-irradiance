@@ -16,3 +16,4 @@ source:
 inputs:
   - id: "node-latitude"; type: "float"
   - id: "node-longitude"; type: "float"
+  - id: "test-argument"; type: "float"
