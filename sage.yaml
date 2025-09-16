@@ -14,7 +14,5 @@ source:
   url: "https://github.com/waggle-sensor/plugin-solar-irradiance.git"
   branch: "main"
 inputs:
-  - id: "node-latitude"
-    type: "float"
-  - id: "node-longitude"
-    type: "float"
+  - id: "node-latitude"; type: "float"
+  - id: "node-longitude"; type: "float"
